@@ -5,7 +5,7 @@ body {
 
 .container_flued {
     width: 100%;
-    max-width: 80%;
+    max-width: 100%;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -14,6 +14,7 @@ body {
 .img {
     width: 100%;
     height: 400px;
+  
 }
 
 .icon {
@@ -83,6 +84,7 @@ body {
     float: right;
     margin-top: 10px;
     height: 400px;
+  
 }
 
 .rest {
@@ -301,12 +303,12 @@ body {
 
 .demo {
     width: 50%;
-    margin-left: 70px;
+    margin-left: 13pc;
 
 }
 
 .demo h1 {
-    margin-right: 13pc;
+    margin-right: 16pc;
     font-size: 31px;
     font-weight: lighter;
 
@@ -345,19 +347,19 @@ form #Message {
 }
 
 .fname {
-    margin-right: 27.5pc;
+    margin-right: 31.5pc;
     color: #bfb7b7;
     font-size: 15px;
 }
 
 .fadd {
-    margin-right: 26.5pc;
+    margin-right: 30.5pc;
     color: #bfb7b7;
     font-size: 15px;
 }
 
 .fmas {
-    margin-right: 26pc;
+    margin-right: 30pc;
     color: #bfb7b7;
     font-size: 15px;
 }
@@ -369,7 +371,7 @@ form #Message {
     border: 1px solid white;
     background-color: hsl(357deg 79% 54%);
     color: white;
-    margin-left: -25pc;
+    margin-left: -29pc;
     cursor: pointer;
 }
 
@@ -411,7 +413,7 @@ form #Message {
     }
 
     .rest button {
-        margin-left: 11pc;
+        margin-left: 16pc;
         margin-bottom: 20px;
     }
 
@@ -428,7 +430,7 @@ form #Message {
     }
 
     .box1 h1 {
-        margin-left: 9pc;
+        margin-left: 12pc;
     }
 
     .box1 {
@@ -441,7 +443,7 @@ form #Message {
     }
 
     .box1 .sam {
-        margin-left: 4pc;
+        margin-left: 8pc;
     }
 
     .box1 p {
@@ -457,7 +459,7 @@ form #Message {
     }
 
     .box2 h1 {
-        margin-left: 9pc;
+        margin-left: 12pc;
     }
 
     .box2 p {
@@ -470,7 +472,7 @@ form #Message {
     }
 
     .box2 .sam {
-        margin-left: 5pc;
+        margin-left: 8pc;
     }
 }
 
@@ -552,11 +554,11 @@ form #Message {
     .fname,
     .fadd,
     .fmas {
-        margin-left: 25px;
+        margin-left: 34px;
     }
 
     .seven .button {
-        margin-left: -15pc;
+        margin-left: -20pc;
     }
 
     .demo1 {
@@ -565,10 +567,10 @@ form #Message {
     }
 
     .demo1 h1 {
-        margin-left: 27px;
+        margin-left: 35px;
     }
 
     .demo1 .icons {
-        margin-left: 30px;
+        margin-left: 40px;
     }
 }
