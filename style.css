@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: auto;
+}
+
+.first {
+    text-align: center;
+}
+
+.text {
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+}
+
+.icon {
+    position: absolute;
+    top: 35px;
+    left: 50%;
+}
+
+.two {
+
+    background-color: hsl(357deg 79% 54%);
+    float: left;
+    width: 100%;
+    color: white;
+    margin-top: -4px;
+    text-align: center;
+}
+
+.two .img {
+    float: right;
+}
+
+.rest{
+    margin-top: 35px;
+}
+
+.three {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+
+}
+
+.next {
+    position: absolute;
+    top: 55%;
+    left: 2%;
+    font-size: 14px;
+    color: white;
+}
+.next h1{
+    margin: 0px;
+}
+
+.four {
+    margin: -4px 0px;
+}
+
+.four small{
+    color: gray;
+    font-size: 30px;
+}
+
+.five {
+    background-color: hsl(357deg 79% 54%);
+    color: white;
+    height: 175px;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+.five .ico {
+    font-size: 20px;
+}
+
+.six {
+    background-color: hsl(219deg 34% 17%);
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    height: 350px;
+
+}
+
+.six .head {
+    font-size: 29px;
+    border: 5px solid white;
+    color: white;
+    margin-top: 30px;
+}
+
+.seven {
+    background-color: rgb(148, 33, 33);
+    color: white;
+    position: relative;
+    height: 500px;
+}
+
+.seven .demo {
+    left: 10%;
+    position: absolute;
+    top: 50px;
+}
+
+.seven .demo1 {
+    left: 60%;
+    position: absolute;
+    top: 50px;
+}
+.seven .button{
+    margin: 10px 0px;
+    height: 30px;
+    width: 80px;
+    border: 1px solid white;
+    background-color: rgb(148, 33, 33);
+}
+
+.footer {
+    background-color: #403434;
+    color: white;
+    font-size: 14px;
+    height: 50px;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+
+    padding: 12px 0px;
+}
